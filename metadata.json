@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday RB! | Cats & Art Studio Celebration",
+  "description": "An artistic birthday celebration greeting for RB featuring whimsical artist cats, interactive sketchbook canvas, watercolor swatches, candles to blow out, and birthday wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
